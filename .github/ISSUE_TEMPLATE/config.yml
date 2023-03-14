@@ -1,0 +1,10 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - name: Forums
+    url: https://caddy.community/
+    about: Visit the Forums
+  - name: Docs
+    url: https://caddyserver.com/docs/
+    about: View the Docs
+...
