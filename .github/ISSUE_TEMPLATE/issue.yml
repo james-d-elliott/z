@@ -1,0 +1,16 @@
+---
+name: Issue
+description: Report an issue
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Example arbitrary information that can be displayed with [links](https://caddyserver.com)
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the issue
+    validations:
+      required: true
+...
